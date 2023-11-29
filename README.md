@@ -1,6 +1,7 @@
 # Credit-Card-Anomaly-Detection-with-Power-BI
 Welcome to the Credit Card Anomaly Detection repository! This Power BI project is dedicated to the crucial task of identifying unusual or potentially fraudulent activities within credit card transactions in real-time.
 
+# View interactive project on power bi. click link! https://app.powerbi.com/view?r=eyJrIjoiYjA4YWJlZTItZjM4Ni00ODZkLTg3ODAtMDE0YWZjYzk1ZTNhIiwidCI6IjU0NDdhOGRlLWE4OTctNGZlNS05ZjZhLTU2MTMxZjc0ZTZmMSJ9 
 **Project Objective:**
    - Detect anomalies in credit card transactions through a combination of statistical analysis, machine learning algorithms, and the powerful visualization capabilities of Microsoft Power BI.
 
